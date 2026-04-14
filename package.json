@@ -1,0 +1,13 @@
+{
+  "name": "phantom-node-kernel",
+  "version": "1.0.0",
+  "description": "Virtual Browser Engine for Railway",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.9"
+  }
+}
